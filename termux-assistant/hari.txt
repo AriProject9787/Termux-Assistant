@@ -1,1 +1,0 @@
-/home/blackdevil/tools/Text-to-speech-termux
